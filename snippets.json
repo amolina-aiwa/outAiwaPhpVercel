@@ -1,8 +1,0 @@
-{
-  "javascript": {
-    "snippets": {
-      "clog": "console.log('')",
-      "exdef": "export default function replaceThis(){return()}"
-    }
-  }
-}
